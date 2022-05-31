@@ -24,5 +24,8 @@
       "@models/*": ["./src/models/*"],
       "@src/*": ["./src/*"]
     }
-  }
+  },
+  "include": [
+    "./src/**/*"
+  ]
 }
